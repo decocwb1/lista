@@ -1,0 +1,113 @@
+#EXTM3U
+
+################################################################################# Filmes e Series
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/xmz194pf1/cinesky.png" group-title="Filmes e Séries",Cine Sky
+http://78.129.184.15:3891/streaming/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/oggqluk6l/clarocine.png" group-title="Filmes e Séries",Cine Claro
+http://78.129.184.15:3891/streaming/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-logo="http://s20.postimg.org/c8pzk1iul/RBX_TV.png" group-title="Filmes e Séries",RBX
+http://78.129.184.15:3891/streaming/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO
+http://187.49.86.238:10000/bysid/69?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2 [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-logo="http://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://s31.postimg.org/h4q35bctn/max.png" group-title="Filmes e Séries",Max [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries",Max Prime [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Max up HD [Brazil]" tvg-logo="http://s31.postimg.org/x7orzkx97/max_up.png" group-title="Filmes e Séries",Max Up [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="Filmes e Séries",Cinemax
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjIxOjI4IFBNJmhhc2hfdmFsdWU9dWZoQ29kVjNkc0tob2pMWkxxMVV3Zz09JnZhbGlkbWludXRlcz0yMA== playpath=53  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Cinemax.php
+
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",Telecine Action
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjIyOjMyIFBNJmhhc2hfdmFsdWU9TjRTRWs5MFRsR0paUFh1SlRGdENDZz09JnZhbGlkbWludXRlcz0yMA== playpath=master17  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Telecine%20Action.php
+
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
+http://187.49.86.238:10000/bysid/61?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
+http://187.49.86.238:10000/bysid/63?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",Telecine Fun [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjI0OjM2IFBNJmhhc2hfdmFsdWU9YjJSbVlWRTRLR0w1SWJRdjZtaVRWQT09JnZhbGlkbWludXRlcz0yMA== playpath=master18  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Telecine%20Pipoca.php
+
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="Filmes e Séries",Telecine Cult
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjI1OjIyIFBNJmhhc2hfdmFsdWU9TzRhVTByb09CanVDSWhaZ2hkYVk1Zz09JnZhbGlkbWludXRlcz0yMA== playpath=tccult  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/tccult.php
+
+#EXTINF:-1 tvg-id="Lifetime [Brazil]" tvg-logo="http://s20.postimg.org/y64l1rxrh/Lifetime.png" group-title="Filmes e Séries",Lifetime [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="i-Sat [Brazil]" tvg-logo="http://s21.postimg.org/h6grm4s87/I_sat.png" group-title="Filmes e Séries",I sat [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s15.postimg.org/tzhnubsmz/axn.png" group-title="Filmes e Séries",AXN [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url= 
+
+#EXTINF:-1 tvg-id="AMC [Brazil]" tvg-logo="http://s20.postimg.org/7dh5zk3gp/AMC_logo_2013.jpg" group-title="Filmes e Séries",AMC
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjMwOjEzIFBNJmhhc2hfdmFsdWU9My9vemJsNHpuWTUzb3l0T09BR3V6dz09JnZhbGlkbWludXRlcz0yMA== playpath=104  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/amc.php
+
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",Fox
+http://169.57.142.110:25461/live/YL6wdqDmAe/JXrT1V9qwq/103.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="FX [Brazil]" tvg-logo="http://s20.postimg.org/pcf1oef0p/image.png" group-title="Filmes e Séries",FX
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjMxOjI3IFBNJmhhc2hfdmFsdWU9WVNMc0RuOVJpYmlKazk3dWk4dHJrQT09JnZhbGlkbWludXRlcz0yMA== playpath=master25  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/FX.php
+
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="Filmes e Séries",Megapix
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjMyOjI5IFBNJmhhc2hfdmFsdWU9YUNrRmwzTXZ4RXZxVitlbXVIcko1QT09JnZhbGlkbWludXRlcz0yMA== playpath=master11  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Megapix.php
+
+#EXTINF:-1 tvg-id="SPACE [Brazil]" tvg-logo="http://s31.postimg.org/uu398livf/space.png" group-title="Filmes e Séries",Space [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-logo="http://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Séries",TBS [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-logo="http://s20.postimg.org/jhgria3yh/Comedy_Central.png" group-title="Filmes e Séries",Comedy Central [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-logo="http://s27.postimg.org/ak3hno8eb/TCM.png" group-title="Filmes e Séries",TCM
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQwOjAyIFBNJmhhc2hfdmFsdWU9SUZwMWJ1ZWxXR005QmM3ZnpiZVBUdz09JnZhbGlkbWludXRlcz0yMA== playpath=tcm  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/tcm.php
+
+#EXTINF:-1 tvg-id="SyFy [Brazil]" tvg-logo="http://s20.postimg.org/j755s3te1/Sy_Fy.png" group-title="Filmes e Séries",Syfy
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQwOjU2IFBNJmhhc2hfdmFsdWU9OUhsUlE1MHQ5SkduRXYrWldwang4QT09JnZhbGlkbWludXRlcz0yMA== playpath=103  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/syfy.php
+
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQyOjE4IFBNJmhhc2hfdmFsdWU9bXlEenBhOTI5V3kyU1pZRFp4QkFVdz09JnZhbGlkbWludXRlcz0yMA== playpath=studio  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/studio.php
+
+#EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-logo="http://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Sony
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQzOjAzIFBNJmhhc2hfdmFsdWU9K3NJZlY2OW4wdjJ3UVdxbWk4eGlmQT09JnZhbGlkbWludXRlcz0yMA== playpath=sony  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/sony.php
+
+#EXTINF:-1 tvg-id="TNT [Brazil]" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQzOjU0IFBNJmhhc2hfdmFsdWU9bk1CSmpraXA4clAydisycUg0R0xTdz09JnZhbGlkbWludXRlcz0yMA== playpath=master77_1  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/TNT.php
+
+#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-logo="http://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries",Universal
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQ0OjQyIFBNJmhhc2hfdmFsdWU9Zm5DVXd3Z0tGMXZRaWg5cWJHajBFUT09JnZhbGlkbWludXRlcz0yMA== playpath=master20  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Universal%20Channel.php
+
+#EXTINF:-1 tvg-id="Paramount Channel [Brazil]" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount
+http://187.49.86.238:10000/bysid/49?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-logo="http://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Filmes e Séries",Warner
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjQ1OjQ0IFBNJmhhc2hfdmFsdWU9WVBncmNKRWtlQ3ZUUEYrTGNBYnVCdz09JnZhbGlkbWludXRlcz0yMA== playpath=master22  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Warner%20Brothers.php
+
+##################################### FIM ############################################

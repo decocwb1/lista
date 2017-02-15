@@ -1,0 +1,122 @@
+#EXTM3U
+
+################################################################################# TV Aberta
+
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo Nordeste
+http://104.156.60.74:1935/redecanaisglobo/redecanaisglobo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
+rtmp://86.106.137.10/live?token=SA9iTHsGqrQ7HugsPT6_VAExpired=1485647992 playpath=ver8b1f11ec23e010737aaed9  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf  pageUr=>http://abcast.net/wp.php?file=redebobo&width=468&height=359
+
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ
+rtmp://37.48.116.2/adfree playpath=globoaovivo2?id=67536&pk=59c608b2bb27099a5c95e483f051fa83e3fff048147bbdeecaba02e01b01041b  swfUrl=http://www.janjuaplayer.com/resources/scripts/splayer.swf  pageUrl=http://www.janjuaplayer.com/sharedcdn/embedplayer/globoaovivo2/1/640/360/7aac0382b5d71a8be8e4f5f5ff5cf12e7e0c9ed4f5351326b00a76435279493b
+
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Em breve mais canais globo
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT SP HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT RS
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT BA
+http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT MT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT Recife
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band SP
+http://173.236.10.10:1935/band/band/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band Pará
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band Pará
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede Brasil [Brazil]" tvg-logo="http://s20.postimg.org/hy83ezmo9/Rede_Brasil.png" group-title="TV Aberta",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV Brasil
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV Brasil HD
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV Aberta",TV Cultura
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Canal Futura [Brazil]" tvg-logo="http://s20.postimg.org/8fad3ni5p/TV_Futura.png" group-title="TV Aberta",TV Futura
+http://caikron.com.br:8081/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Canal Futura [Brazil]" tvg-logo="http://s20.postimg.org/8fad3ni5p/TV_Futura.png" group-title="TV Aberta",TV Futura HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",Record SP
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",Record ES
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8?Zara_TV
+
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",Record PR
+http://caikron.com.br:1935/ricpr/curitiba.stream/playlist.m3u8?Zara_TV
+
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",Record PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",Record AM
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2143012/e/0_dm4rwkh4/t/BEPMXlN7c-EKVDYFPMUGzg/index-s32-v1-a1.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV SP
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV RS
+http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV PR
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV RN
+http://tv.taaqui.org:1935/redetvrn/redetvrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV PB
+http://tv.taaqui.org:1935/redetvrn/redetvrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV Rondônia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="TV Aberta",TVE Bahia
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="TV Aberta",TVE PR
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://s20.postimg.org/z9jngmc31/TV_Escola.png" group-title="TV Aberta",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://s20.postimg.org/z9jngmc31/TV_Escola.png" group-title="TV Aberta",TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Terra Viva [Brazil]" tvg-logo="http://s20.postimg.org/hyt8olkfh/Terra_Viva.png" group-title="TV Aberta",Terra Viva
+http://evtg.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NBR [Brazil]" tvg-logo="http://s20.postimg.org/4tisflwvh/NBR.png" group-title="TV Aberta",NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8?PEDROJUNIORTUTORIAIS
+
+############################ FIM ####################################################

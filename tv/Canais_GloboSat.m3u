@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]GloboSat (BREVE)[/B][/COLOR]</title>
+<link>#</link>
+<thumbnail>http://s29.postimg.org/6033i47yf/Globo_Sat.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]GNT (EM BREVE)/B][/COLOR]</title>
+<link>#</link>
+<thumbnail>http://s20.postimg.org/uvkcw9ga5/gnt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]VIVA[/B][/COLOR]</title>
+<link>rtmp://94.102.51.67/live playpath=vivaaovivo2?id=23269&pk=59c608b2bb27099a5c95e483f051fa83e3fff048147bbdeecaba02e01b01041b  swfUrl=http://www.p3g.tv/resources/scripts/eplayer.swf  pageUrl=http://www.p3g.tv/embedplayer/vivaaovivo2/1/640/360</link>
+<thumbnail>http://s20.postimg.org/sgshbu019/viva.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CANAL BRASIL[/B][/COLOR]</title>
+<link>rtmp://94.102.51.67/live playpath=vivaaovivo2?id=23269&pk=59c608b2bb27099a5c95e483f051fa83e3fff048147bbdeecaba02e01b01041b  swfUrl=http://www.p3g.tv/resources/scripts/eplayer.swf  pageUrl=http://www.p3g.tv/embedplayer/vivaaovivo2/1/640/360</link>
+<thumbnail>http://s20.postimg.org/x3yjdlne5/canalbrasil.png</thumbnail>
+<fanart></fanart>
+</item>

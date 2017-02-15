@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Chaves[/B][/COLOR]</title>
+<link>rtmp://208.53.164.194/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE3IDQ6MTY6NDUgUE0maGFzaF92YWx1ZT1xMlFEK2JuT1d0azBqUkNjTjBLdTN3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=chaves  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://www.fullhospedagem.com/tvamigos/chaves.php</link>
+<thumbnail>https://goo.gl/5HAE4d</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Cartoon [/B][/COLOR]</title>
+<link>rtmp://208.53.164.194/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE3IDQ6MTY6NDUgUE0maGFzaF92YWx1ZT1xMlFEK2JuT1d0azBqUkNjTjBLdTN3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=chaves  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://www.fullhospedagem.com/tvamigos/chaves.php</link>
+<thumbnail>https://goo.gl/5HAE4d</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Disney Channel[/B][/COLOR]</title>
+<link>rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE3IDU6MDg6NDggUE0maGFzaF92YWx1ZT1WTEV1S3BsNVkxVmlPVmJmOVdtVEtRPT0mdmFsaWRtaW51dGVzPTIw playpath=disney  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/disney.php</link>
+<thumbnail>https://goo.gl/5HAE4d</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Disney XD[/B][/COLOR]</title>
+<link>rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE3IDQ6MTA6NTMgUE0maGFzaF92YWx1ZT1zTEU0bmhRZ3RoKzFxNHZyTGVjV1BRPT0mdmFsaWRtaW51dGVzPTIw playpath=disneyxd  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/disneyxd.php</link>
+<thumbnail>https://goo.gl/5HAE4d</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Gloob[/B][/COLOR]</title>
+<link>http://192.168.20.12:10000/bysid/94</link>
+<thumbnail>https://goo.gl/5HAE4d</thumbnail>
+<fanart></fanart>
+</item>

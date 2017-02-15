@@ -1,0 +1,14 @@
+#EXTM3U
+
+################################################################################# BBB 17
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="BBB 17",BBB 1
+http://31.220.0.32/live/bybzuxwnw.m3u8?token=c2VydmVyX3RpbWU9MS8yOC8yMDE3IDExOjU0OjM3IFBNJmhhc2hfdmFsdWU9R3pVZTdjU0hLdGZiUjR0dm91cERxZz09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="BBB 17",BBB 2
+http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/ver6674a21a8e42eea869c0e5/chunklist.m3u8?st=Ya5TiV_Lp-RG0EWGnJf_aQ&e=1485806107
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="BBB 17",BBB 3
+http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/ver6674a21a8e42eea869c0e5/chunklist.m3u8?st=YBR9Dc7tQy5AljGjGER3Iw&e=1485734232
+
+##################################### FIM ############################################

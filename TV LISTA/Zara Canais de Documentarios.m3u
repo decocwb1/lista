@@ -1,0 +1,56 @@
+#EXTM3U
+
+################################################################################# Documentários
+
+#EXTINF:-1 tvg-id="TruTV [Brazil]" tvg-logo="http://s20.postimg.org/8om6i6g19/Tru_TV.png" group-title="Documentarios",TruTV [COLOR red][B][COLOR red][B](MANUTENÇÃO)[/B][/COLOR][/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png" group-title="Documentarios",Fox Life
+rtmp://178.162.211.143/stream playpath=foxlifea?id=19709&pk=59c608b2bb27099a5c95e483f051fa83e3fff048147bbdeecaba02e01b01041b  swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf  pageUrl=http://www.liveflashplayer.net/embedplayer/foxlifea/1/480/360
+
+#EXTINF:-1 tvg-id="A&amp;E [Brazil]" tvg-logo="http://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Documentarios",A&E
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjA5OjE3IEFNJmhhc2hfdmFsdWU9NjdCeXl5OEd6RFNpWVVlT050ZEpxQT09JnZhbGlkbWludXRlcz0yMA== playpath=ae_1  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/ae.php
+
+#EXTINF:-1 tvg-id="TLC [Brazil]" tvg-logo="http://s20.postimg.org/53dvxgbk9/TLC.png" group-title="Documentarios",TLC [COLOR red][B][COLOR red][B](MANUTENÇÃO)[/B][/COLOR][/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="E! Entertainment Television [Brazil]" tvg-logo="http://s29.postimg.org/vn86hvuef/E_Entertainment.png" group-title="Documentarios",E!
+http://hls.megadash.xyz/s/canale233/oe69e.m3u8?h=Uz-TxyTkHh5TkvQkbSu-GQ
+
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-logo="http://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentarios",Animal Planet
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjEyOjU3IEFNJmhhc2hfdmFsdWU9ZWREVlV2dmp2bW1NbWEwRS9qbVhBUT09JnZhbGlkbWludXRlcz0yMA== playpath=30  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/Animal%20Planet.php
+
+#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-logo="http://s20.postimg.org/u148b2iyx/Nat_Geo_Wild.png" group-title="Documentarios",National Geographic
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjE0OjA0IEFNJmhhc2hfdmFsdWU9Z2tQTnpWTUorUGZ6bEdSS1MzRVJ1Zz09JnZhbGlkbWludXRlcz0yMA== playpath=natgeo  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/natgeo.php
+
+#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-logo="http://s20.postimg.org/u148b2iyx/Nat_Geo_Wild.png" group-title="Documentarios",National Geographic Wild
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjE1OjM0IEFNJmhhc2hfdmFsdWU9T2VQWnVac2dCSDVmTWJqUHlvYVZxUT09JnZhbGlkbWludXRlcz0yMA== playpath=animal  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/natgeowild.php
+
+#EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="Documentarios",History
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjE2OjIyIEFNJmhhc2hfdmFsdWU9UkdaRzVzZXp2V0hCRElzMXJpSDNaUT09JnZhbGlkbWludXRlcz0yMA== playpath=history  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/history.php
+
+#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png" group-title="Documentarios",Discovery
+http://187.49.86.238:10000/bysid/120?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-logo="http://s20.postimg.org/6nnb2ofwp/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjE5OjA1IEFNJmhhc2hfdmFsdWU9eUI1Tm45aHg1RUZRbjgzY01GVjFpdz09JnZhbGlkbWludXRlcz0yMA== playpath=turbo  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/turbo.php
+
+#EXTINF:-1 tvg-id="Investigação Discovery [Brazil]" tvg-logo="http://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentarios",Discovery ID
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjE5OjQ5IEFNJmhhc2hfdmFsdWU9czVGdVE5NWY1T3BjS1FmYWVVQUJDUT09JnZhbGlkbWludXRlcz0yMA== playpath=105  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/investigacao.php
+
+#EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png" group-title="Documentarios",Discovery Science [COLOR red][B][COLOR red][B](MANUTENÇÃO)[/B][/COLOR][/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png" group-title="Documentarios",Discovery Home Health
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE3IDEyOjIyOjE0IEFNJmhhc2hfdmFsdWU9L0pwSlViSzk1MG02QU9Pa3FGbkFrZz09JnZhbGlkbWludXRlcz0yMA== playpath 106  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/home.php
+
+#EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-logo="http://s20.postimg.org/qd5lf4nt5/Discovery_Civilization.png" group-title="Documentarios",Discovery Civilization
+http://hls.megadash.xyz/s/discivil730/oe69e.m3u8?h=jQ9QgEN5jTFE9AyZJI4Hbw
+
+#EXTINF:-1 tvg-id="Discovery HD Theater [Brazil]" tvg-logo="http://s20.postimg.org/hypyr1mrt/Discovery_Theater.png" group-title="Documentarios",Discovery Theater [COLOR red][B][COLOR red][B](MANUTENÇÃO)[/B][/COLOR][/B][/COLOR]
+swf= url=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/kb2k2dor1/Discovery_World.png" group-title="Documentarios",Discovery World [COLOR red][B](MANUTENÇÃO)[/B][/COLOR]
+swf= url=
+
+##################################### FIM ############################################
